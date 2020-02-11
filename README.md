@@ -1,1 +1,2 @@
-# ouwalkingapp
+OUWalkingApp
+Chris Gallagher (@chrisg423)
