@@ -4,6 +4,7 @@ Chris Gallagher (@chrisg423)
 Developers:
 Yo Seop Kim(ykrath)
 Zhenrui(zh784316)
+Zach(zachsouth11)
 
 Description:
 Our project is on creating a map to find the best and effecient route around Ohio University campus
