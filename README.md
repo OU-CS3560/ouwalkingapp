@@ -25,3 +25,15 @@ Yo Seop Kim: coding, debug
 Zhenrui Huang:coding, collecting the data for short cut.
 Chris Gallagher:coding, testing
 Zachary South:coding,debug
+
+CREDITS/BIBLIO:
+
+https://developers.google.com/maps/documentation/javascript/examples/map-simple
+
+https://developers.google.com/maps/documentation/directions/intro#Waypoints
+
+https://developers.google.com/maps/documentation/javascript/examples/directions-draggable
+
+https://developers.google.com/maps/documentation/javascript/examples/overlay-hideshow
+
+https://developers.google.com/maps/documentation/javascript/examples/places-searchbox
